@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Abanob Said 👋
 
-<!--
-**abasaid2002-alt/abasaid2002-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Front-End Developer in formazione con **Epicode** (Full Stack in corso).
 
-Here are some ideas to get you started:
+## 🚀 Tech stack (in crescita)
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Redux
+- TypeScript
+- Bootstrap / SASS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Focus attuale
+Sto completando il percorso **Front-End Development** e sto costruendo progetti per consolidare React, JavaScript e TypeScript.
+
+## 📌 Obiettivo
+Cerco opportunità come **Junior Front-End Developer / Web Developer** (stage, apprendistato o junior role).
+
+## 📫 Contatti
+- Email: aba.said2002@gmail.com
+- LinkedIn: www.linkedin.com/in/abasaid2002
